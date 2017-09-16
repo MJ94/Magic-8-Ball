@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func askButtonPressed(_ sender: UIButton) {
+        newBallImage()
     }
     
     func newBallImage() {
